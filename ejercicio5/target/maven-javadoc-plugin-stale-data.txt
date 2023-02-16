@@ -1,0 +1,47 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'C:/JAVAA/ejercicio5/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/JAVAA/ejercicio5/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ejercicio5 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/JAVAA/ejercicio5/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'ejercicio5 1.0-SNAPSHOT API'
+maikel.ejercicio5
+C:\JAVAA\ejercicio5\src\main\java = 1665384286077
+C:\JAVAA\ejercicio5\target\site\apidocs\allclasses-index.html = 1676534085912
+C:\JAVAA\ejercicio5\target\site\apidocs\allclasses.html = 1676534085927
+C:\JAVAA\ejercicio5\target\site\apidocs\allpackages-index.html = 1676534085912
+C:\JAVAA\ejercicio5\target\site\apidocs\constant-values.html = 1676534085865
+C:\JAVAA\ejercicio5\target\site\apidocs\deprecated-list.html = 1676534085927
+C:\JAVAA\ejercicio5\target\site\apidocs\element-list = 1676534085833
+C:\JAVAA\ejercicio5\target\site\apidocs\help-doc.html = 1676534085927
+C:\JAVAA\ejercicio5\target\site\apidocs\index-all.html = 1676534085912
+C:\JAVAA\ejercicio5\target\site\apidocs\index.html = 1676534085927
+C:\JAVAA\ejercicio5\target\site\apidocs\member-search-index.js = 1676534085896
+C:\JAVAA\ejercicio5\target\site\apidocs\member-search-index.zip = 1676534085896
+C:\JAVAA\ejercicio5\target\site\apidocs\overview-tree.html = 1676534085880
+C:\JAVAA\ejercicio5\target\site\apidocs\package-search-index.js = 1676534085880
+C:\JAVAA\ejercicio5\target\site\apidocs\package-search-index.zip = 1676534085896
+C:\JAVAA\ejercicio5\target\site\apidocs\script.js = 1676534085943
+C:\JAVAA\ejercicio5\target\site\apidocs\search.js = 1676534085943
+C:\JAVAA\ejercicio5\target\site\apidocs\stylesheet.css = 1676534085943
+C:\JAVAA\ejercicio5\target\site\apidocs\type-search-index.js = 1676534085896
+C:\JAVAA\ejercicio5\target\site\apidocs\type-search-index.zip = 1676534085896
